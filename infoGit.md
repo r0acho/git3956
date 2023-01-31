@@ -8,4 +8,6 @@
 
 > **git commit** -m “message” – создание коммита.
 
+> **git log** – вывод на экран истории всех коммитов с их хеш-кодами
+
 [](https://git-scm.com/download/win)
