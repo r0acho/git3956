@@ -24,3 +24,8 @@
 > git branch **<branch_name>** - создать новую ветку с именем branch_name
 
 > **git checkout  -b <branch_name>** - создание ветки и переход к ней
+
+> **git commit -am “message”** – добавление файлов в отслеживание и       создание коммита.
+> **git log --graph** - вывод на экран истории всех коммитов с их хеш-кодами в древовидной форме
+
+git commit aaaa
