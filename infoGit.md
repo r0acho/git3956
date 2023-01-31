@@ -12,4 +12,6 @@
 
 > **git checkout** – переход от одного коммита к другому
 
+> **git checkout master** – вернуться к актуальному состоянию и продолжить работу
+
 [](https://git-scm.com/download/win)
