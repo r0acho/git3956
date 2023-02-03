@@ -35,3 +35,7 @@
 > **git pull** – получение изменений и слияние с локальной версией
 
 > **git push** – отправляет локальную версию репозитория на внешний
+
+## Всё понятно, спасибо за семинары!)
+
+![gratitude](https://fresh-cards.ru/images/cards/kartinka-elektronnaya-spasibo.jpg)
