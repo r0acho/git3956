@@ -19,6 +19,8 @@
 
 ![](1-9.jpg)
 
+test
+
 ## Основные команды Git 2-го семинара
 
 > git branch **<branch_name>** - создать новую ветку с именем branch_name
