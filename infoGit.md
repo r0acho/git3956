@@ -35,3 +35,22 @@
 > **git pull** – получение изменений и слияние с локальной версией
 
 > **git push** – отправляет локальную версию репозитория на внешний
+
+
+## Команды 3-го семинара
+
+* Создание нового репозитория на GitHub
+* Добавляем созданный удаленный репо в текущий локальный
+
+`git remote set-url origin https://github.com/zzergAtStage/git3956.git`  
+
+* Rename local branch  
+`git branch -M main`  
+
+* Push local repository
+
+`git push -u origin main`
+
+* making a new clone
+   adding new folder (not parent directory!)  
+   `git clone <url>`  
