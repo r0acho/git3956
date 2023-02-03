@@ -35,3 +35,9 @@
 > **git pull** – получение изменений и слияние с локальной версией
 
 > **git push** – отправляет локальную версию репозитория на внешний
+
+---
+
+[You're out of touch; I'm out of time; But I'm out of my head when you're not around](https://open.spotify.com/track/7zLGHdfJ3JRPxvc96mEPEi?si=18beb85fa28b4b83)
+
+---
