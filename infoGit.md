@@ -35,3 +35,5 @@
 > **git pull** – получение изменений и слияние с локальной версией
 
 > **git push** – отправляет локальную версию репозитория на внешний
+
+## Как без Златана? ![здесь был Златан](https://img.championat.com/s/735x490/news/big/v/b/zlatan-ibragimovich-sygral-legionera-antivirusa-v-novoj-chasti-asteriksa-i-obeliksa_16641340731373576040.jpg)
