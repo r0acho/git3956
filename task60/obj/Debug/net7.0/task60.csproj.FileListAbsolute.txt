@@ -1,0 +1,15 @@
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\bin\Debug\net7.0\task60.exe
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\bin\Debug\net7.0\task60.deps.json
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\bin\Debug\net7.0\task60.runtimeconfig.json
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\bin\Debug\net7.0\task60.dll
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\bin\Debug\net7.0\task60.pdb
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\task60.csproj.AssemblyReference.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\task60.AssemblyInfoInputs.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\task60.AssemblyInfo.cs
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\task60.csproj.CoreCompileInputs.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\task60.dll
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\refint\task60.dll
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\task60.pdb
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\task60.genruntimeconfig.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task60\obj\Debug\net7.0\ref\task60.dll
