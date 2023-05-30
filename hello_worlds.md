@@ -14,7 +14,7 @@ Cuteness bliss, however, sorry kiss, opened window of opportunities.
 --URBAN LEGENDS OF UNTOLD MISSED IN THIN AIR PEOPLE--
 CODED MICROCODED HACKER <paces> different places, like ELE 475 COMPARCH, inlaw-outlaw, indoor-outdoor, closed-ripped-off-cloth -OPEN -rude -UGLY -YOUNG -AGES -RISE -YOUNG_CADET </paces>
 
-Продолжение работы с контролем версий
+*Продолжение работы с контролем версий*
 
 std::<iomanip> <vector> <iterator> <map> <tuple> <stdio> <cstdio>
 my_bib::<sherrizon>
