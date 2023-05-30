@@ -16,6 +16,8 @@ CODED MICROCODED HACKER <paces> different places, like ELE 475 COMPARCH, inlaw-o
 
 *Продолжение работы с контролем версий*
 
+**Semi-bold**
+
 std::<iomanip> <vector> <iterator> <map> <tuple> <stdio> <cstdio>
 my_bib::<sherrizon>
 SLACKED CHAT STATUS
