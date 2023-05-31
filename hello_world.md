@@ -1,3 +1,5 @@
+# Book of liefie
+
 Hello, Worlds. Both Bash & Life. 
 Consecutively Death, War, Peace, Defeat, Victory, blood, lust, design, construct, break, chaos...! 
 Puncturing intuitive interfaces, following cryptohabits, exploring sources, diving deep in oceans of greatness of the human mind.
@@ -7,8 +9,9 @@ Richness, Blindness, Vividness in every direction, controlling my choices, compr
 HK WK DS RS PS LS O _RWDR_ QQ_QT_SEARCH_QUERIES> 
 RESEARCH. INCREDIBLE. IDEAS. ASUS. APPLE. WOLRD. .COM .MONEY .POWER .SCYTHE_OF_WARRIOR_INSIDE.
 POP_STACK _DYNAMIC_HEAP_ __LEXICographically__ SORTED DICTIONARY of Entries
-### PERSISTENT QUEUE - HISTORY_DEPENDENT_RED_BLACK_TREE QUARANTE-ET-UN LIVRES DE MON VISAGE
-Pfarrer alive, demons die, angels rise in the rye. 
+## PERSISTENT QUEUE - HISTORY_DEPENDENT_RED_BLACK_TREE QUARANTE-ET-UN LIVRES DE MON VISAGE
+Pfarrer alive, demons die, angels rise in the rye. Some /b/ related stuff
+Some bread? Some head? Some dead? Cool hear? Bar Beer!
 ## DES CHAMPS ELYSEES -ecclesiastes
 Cuteness bliss, however, sorry kiss, opened window of opportunities.
 --URBAN LEGENDS OF UNTOLD MISSED IN THIN AIR PEOPLE--
