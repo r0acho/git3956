@@ -22,6 +22,57 @@ CODED MICROCODED HACKER <paces> different places, like ELE 475 COMPARCH, inlaw-o
 * itemize 2
 * itemize 3
 
+1. Marginize
+2. Tuplenize
+3. Operize
+4. Turtleize
+5. Cucumize
+6. Tarterize
+7. Pulsimize
+8. Troublemize
+9. Getremize
+10. Extremize
+11. Clickemize
+12. Truperize
+13. Appetize
+14. Ignorize
+15. Clarificize
+16. Tyronize
+17. Pukomize
+18. Fotumize
+19. Rablemize
+20. Friendenize
+21. Slackimize
+22. Pacmanomize
+23. Trigonometrimize
+24. Micromize
+25. Krewomize
+26. Webemize
+27. Bitcoinomize
+28. Selfomize
+29. Defenderomize
+30. Squiffelomize
+31. Igojiomize
+32. Lepanemize
+33. Srednemize
+34. Nicemize
+35. Micemize
+36. Mizeize
+37. Izimakerize
+38. Pfefferize
+39. Pfarrerize
+40. Rize
+41. Efoderchize
+42. Wewelfekmize
+43. Sqouplemize
+44. Kepleredize
+45. Textilemize
+46. Ramblemize
+47. Cutemize
+48. Racificize
+49. Isguize
+50. Lordofize
+
 std::<iomanip> <vector> <iterator> <map> <tuple> <stdio> <cstdio>
 my_bib::<sherrizon>
 SLACKED CHAT STATUS
