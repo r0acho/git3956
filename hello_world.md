@@ -20,7 +20,8 @@ CODED MICROCODED HACKER <paces> different places, like ELE 475 COMPARCH, inlaw-o
 
 * itemize 1
 * itemize 2
-* 
+* itemize 3
+
 std::<iomanip> <vector> <iterator> <map> <tuple> <stdio> <cstdio>
 my_bib::<sherrizon>
 SLACKED CHAT STATUS
