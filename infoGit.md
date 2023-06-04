@@ -35,3 +35,7 @@
 > **git pull** – получение изменений и слияние с локальной версией
 
 > **git push** – отправляет локальную версию репозитория на внешний
+---
+> добавим надежности в этот gay website
+
+![Password](https://sun9-71.userapi.com/impf/c850724/v850724420/1b22a0/5oQ496x8SIg.jpg?size=480x360&quality=96&sign=57c196ccd05a49108f28619e59b387f6&type=album)
