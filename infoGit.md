@@ -35,3 +35,14 @@
 > **git pull** – получение изменений и слияние с локальной версией
 
 > **git push** – отправляет локальную версию репозитория на внешний
+
+# Основные команды третьего семинара от меня лично)):
+- git remote add origin
+- git branch -M main 
+- git push -u origin
+- git remote show origin
+- git remote set-url origin
+
+## Пытаюсь запушить коммиты
+__для этого ввожу команду git push__
+**попытка номер 2 - попытался изменить адрес url на https://github.com/Firstivan/GitHubRepositiry.git (свой)***
