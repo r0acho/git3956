@@ -1,0 +1,15 @@
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\task58.csproj.AssemblyReference.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\task58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\task58.AssemblyInfoInputs.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\task58.AssemblyInfo.cs
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\task58.csproj.CoreCompileInputs.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\bin\Debug\net7.0\task58.exe
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\bin\Debug\net7.0\task58.deps.json
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\bin\Debug\net7.0\task58.runtimeconfig.json
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\bin\Debug\net7.0\task58.dll
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\bin\Debug\net7.0\task58.pdb
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\task58.dll
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\refint\task58.dll
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\task58.pdb
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\task58.genruntimeconfig.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar8(homework)\task58\obj\Debug\net7.0\ref\task58.dll

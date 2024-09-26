@@ -1,0 +1,15 @@
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\bin\Debug\net7.0\task19.exe
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\bin\Debug\net7.0\task19.deps.json
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\bin\Debug\net7.0\task19.runtimeconfig.json
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\bin\Debug\net7.0\task19.dll
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\bin\Debug\net7.0\task19.pdb
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\task19.csproj.AssemblyReference.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\task19.AssemblyInfoInputs.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\task19.AssemblyInfo.cs
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\task19.csproj.CoreCompileInputs.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\task19.dll
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\refint\task19.dll
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\task19.pdb
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\task19.genruntimeconfig.cache
+C:\Users\admin04\Desktop\Учёба\Гигбрейнс\c#\seminar3(homework)\task19\obj\Debug\net7.0\ref\task19.dll
